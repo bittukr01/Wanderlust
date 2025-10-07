@@ -4,17 +4,20 @@ It’s designed with an elegant UI, responsive layout, and efficient backend to 
 
 
 
+
 ⚙️ Tech Stack
 
 Frontend: HTML, CSS, JavaScript
 
 Backend: Node.js, Express.js
 
-Database: MongoDB / MySQL
+Database: MongoDB
 
 Version Control: Git & GitHub
 
 Design Tools: Bootstrap
+
+
 
 
 
